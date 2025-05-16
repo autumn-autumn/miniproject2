@@ -1,6 +1,6 @@
 """
 Mini-Project 2 - Autumn Portugal
-I generally followed the pseudocode in this document: 
+I generally followed the pseudocode in this document for the DPDA algorithm: 
 https://stanford-cs161.github.io/winter2022/assets/files/lecture17-notes.pdf
 """
 import matplotlib.pyplot as plt
